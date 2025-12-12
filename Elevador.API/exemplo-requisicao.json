@@ -1,0 +1,53 @@
+[
+  {
+    "elevador": "A",
+    "andar": 5,
+    "periodo": "M"
+  },
+  {
+    "elevador": "B",
+    "andar": 3,
+    "periodo": "M"
+  },
+  {
+    "elevador": "C",
+    "andar": 10,
+    "periodo": "V"
+  },
+  {
+    "elevador": "A",
+    "andar": 7,
+    "periodo": "M"
+  },
+  {
+    "elevador": "D",
+    "andar": 2,
+    "periodo": "N"
+  },
+  {
+    "elevador": "E",
+    "andar": 15,
+    "periodo": "V"
+  },
+  {
+    "elevador": "A",
+    "andar": 0,
+    "periodo": "M"
+  },
+  {
+    "elevador": "B",
+    "andar": 8,
+    "periodo": "V"
+  },
+  {
+    "elevador": "C",
+    "andar": 5,
+    "periodo": "M"
+  },
+  {
+    "elevador": "A",
+    "andar": 12,
+    "periodo": "V"
+  }
+]
+

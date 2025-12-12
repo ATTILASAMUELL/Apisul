@@ -1,0 +1,14 @@
+services:
+  elevador-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: elevador-api
+    ports:
+      - "5000:80"
+    volumes:
+      - ./input.json:/app/input.json
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:80
+
